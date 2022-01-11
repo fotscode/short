@@ -9,7 +9,9 @@ Django learning project, just a simple URL shortener
 /new # POST
 ```
 
+## Installation
 ```console
+git clone https://github.com/fotscode/short
 cd short/
 python manage.py runserver
 ```
