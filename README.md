@@ -13,5 +13,6 @@ Django learning project, just a simple URL shortener
 ```console
 git clone https://github.com/fotscode/short
 cd short/
+python manage.py migrate
 python manage.py runserver
 ```
